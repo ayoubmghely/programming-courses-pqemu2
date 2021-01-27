@@ -4,7 +4,10 @@
 //######################################################################\
 let num1: number;
 let num2: number;
-num1 = 120;
-num2 = 410;
+let num2: number;
 
-console.log(num1 + num2);
+num1 = 10;
+num1 = 20;
+const num3 = num1 + num2;
+
+console.log(num1);
